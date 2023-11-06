@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Embarking on a journey to become a more efficient software sorcerer. 🪄<br><br>👯 I’m looking to collaborate on<br>Full Stack projects and exciting tech initiatives.<br><br>🌱 I’m currently learning<br>Containerization, advanced Spring Boot concepts and Design Patterns.<br><br>💬 Ask me about<br>Python, Java, Algorithms and any general software development questions.<br><br>⚡ Fun fact<br>I can sing pretty well and enjoy performing songs. 🎶<br>
+🔭 I’m currently working on:<br>Embarking on a journey to become a more efficient software sorcerer. 🪄<br><br>👯 I’m looking to collaborate on:<br>Full Stack projects and exciting tech initiatives.<br><br>🌱 I’m currently learning:<br>Containerization, advanced Spring Boot concepts and Design Patterns.<br><br>💬 Ask me about:<br>Python, Java, Algorithms and any general software development questions.<br><br>⚡ Fun fact:<br>I can sing pretty well, enjoy performing songs, and I also play musical instruments. 🎶<br>
 
 
 ## 🌐 Socials:
@@ -13,6 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshittijagrawal&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kshittijagrawal&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
